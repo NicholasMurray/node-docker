@@ -77,9 +77,10 @@ docker build -t node-docker --target test .
 
 
 
+Got to start of here 
+https://docs.docker.com/language/nodejs/configure-ci-cd/
 
 
 
-
-got to here - Let’s start our application and confirm that it is running properly.
-https://docs.docker.com/language/nodejs/develop/#local-database-and-containers
+<!-- got to here - Let’s start our application and confirm that it is running properly.
+https://docs.docker.com/language/nodejs/develop/#local-database-and-containers -->
