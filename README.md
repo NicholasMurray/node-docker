@@ -75,12 +75,12 @@ docker compose -f docker-compose.dev.yml run notes npm run test
 
 docker build -t node-docker --target test .
 
+### Configure CI/CD for your application
 
+Setup GitHub Actions workflow to an existing Docker project
 
-Got to start of here 
-https://docs.docker.com/language/nodejs/configure-ci-cd/
+### Deploy your app 
 
+Finished at this point in the tutorial
 
-
-<!-- got to here - Let’s start our application and confirm that it is running properly.
-https://docs.docker.com/language/nodejs/develop/#local-database-and-containers -->
+https://docs.docker.com/language/nodejs/deploy/
